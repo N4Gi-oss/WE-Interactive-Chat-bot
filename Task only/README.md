@@ -111,3 +111,5 @@ Open the URL Gradio prints (defaults to `http://0.0.0.0:7860`).
 - For production/on-prem deployment, containerize `app.py` and schedule
   `ingest.py` to run periodically so the knowledge base stays current with
   site changes.
+
+  that's a video of the bot : https://drive.google.com/drive/folders/128hLJIfhzlxcnfTX3yadMtPyVID_cQNe?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
