@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+sentence-transformers
+chromadb
+google-genai
+python-dotenv
+gradio
+pypdf
+python-docx
+ 
